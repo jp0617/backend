@@ -1,6 +1,6 @@
 export default {
     database:{
-        host:'192.168.10.20',
+        host:'181.51.32.193',
         user: 'root',
         password: 'qQ12345678',
         database: 'dboInsolvenciapp'
